@@ -21,12 +21,13 @@ h1,h2,h3,h4,h5,h6{
     left: 0px;
     top: 0px;
     border: 6px solid #ececf0;
+    align-items: center;
 }
 
 .header__logo{
     position: absolute;
     width: 10%;
-    height: 4.5%;
+    height: 18px;
     left: 20%;
     top: 3%;
 }
@@ -36,7 +37,7 @@ h1,h2,h3,h4,h5,h6{
     width: 371px;
     height: 18px;
     left: 70%;
-    top: 3%;
+    top: 4%;
     font-family: Lato;
     font-weight: 400;
     font-size: 15px;
